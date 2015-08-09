@@ -37,6 +37,8 @@ library
                      vector,
                      containers,
                      transformers,
+                     partial-isomorphisms,
+                     invertible-syntax,
                      parsec,
                      void,
                      tagged
